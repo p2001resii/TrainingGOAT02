@@ -1,6 +1,7 @@
 package com.JdbcpraticeSpring.JdbcPraticedemo;
 
 public class Student {
+	//hello world
 	private int rollno;
 	private String Name;
 	private String Address;
